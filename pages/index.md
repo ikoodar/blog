@@ -1,22 +1,22 @@
 ---
 socials:
   - icon: i-eva:github-outline
-    link: https://gitee.com/lycnihao
+    link: https://github.com/ikoodar
   - icon: i-ri:twitter-fill
     link: https://gitee.com/lycnihao
     alias: 'twitter'
   - icon: i-ant-design:zhihu-outlined
-    link: https://www.zhihu.com/people/ling-yun-81-14-57
+    link: https://www.zhihu.com/people/neilyo-99-90
     alias: 'zhihu'
   - icon: i-ri-bilibili-fill
-    link: https://space.bilibili.com/434559284?spm_id_from=333.1007.0.0
+    link: https://space.bilibili.com/327872329
     alias: 'bilibili'
 ---
 
 <div flex justify-between items-end>
   <div text-2xl sm:text-4xl font-bold>
     <div>Hi, I'm <span text-c-dark>lYuanC</span>👋。</div>
-    <div flex>A Full Stack <Developer ml-3 /></div>
+    <div flex>Java <Developer ml-3 /></div>
     <Links :links="frontmatter.socials" mt-5/>
   </div>
   <div 
@@ -34,53 +34,48 @@ socials:
     <img rounded-md w-160px src="/images/home/hello.png" alt="hello">
   </div>
   <p col-span-3>
-    I am a software developer living in Changsha, currently engaged in back-end research and development. I also have a strong interest in front-end development, and I am also trying to write some front-end toys in my spare time. I like making interesting projects. <br/><br/>
-    Here, I will record my thoughts and ideas, feel free to browse around.
+    你好，我是<span text-c-dark>lYuanC</span>，一个Java开发工程师，目前在长沙工作。<br/><br/>
+    在这里，我将我的想法，欢迎大家浏览。
   </p>
 </div>
 
 ![](/images/home/bg.jpg)
 
-## Information
+## 关于我
 
-You can use the following information to present me:
+- 🥰 我叫 lYuanC 🧑🏻‍💻.
+
+- 👾 普通码农，`Java` crud boy.
+
+- 🚀 喜欢骑行、羽毛球、听音乐等.
+
+- 🍔 等攒够了六便士就去寻找属于我的月亮: `while(true) { money++; }`.
+
+## 其他
+
+您可以使用以下信息介绍:
 
 <div grid="~ cols-[max-content_1fr] gap-1" border-c-dark border-1 p-3 rounded-md>
-  <div text-right pr2 op50 font-bold>Name</div>
+  <div text-right pr2 op50 font-bold>名字</div>
   <TextCopy>lYuanC</TextCopy>
 
-  <div text-right pr2 op50 font-bold>Avatar</div>
+  <div text-right pr2 op50 font-bold>头像</div>
   <div><a href="https://koodar.net/avatar.png" target="_blank">https://blog.koodar.net/avatar.png</a></div>
 
-  <div text-right pr2 op50 font-bold>Introduction</div>
-  <TextCopy>A full stack developer. Just infected with a disease called curiosity.</TextCopy>
+  <div text-right pr2 op50 font-bold>描述</div>
+  <TextCopy>普通码农一个，没什么好说的</TextCopy>
 
-  <div text-right pr2 op50 font-bold>Location</div>
-  <TextCopy>Nanjing, China</TextCopy>
+  <div text-right pr2 op50 font-bold>位置</div>
+  <TextCopy>中国, 长沙</TextCopy>
 
-  <div text-right pr2 op50 font-bold>Company</div>
-  <TextCopy>Undefined</TextCopy>
-
-  <div text-right pr2 op50 font-bold>Website</div>
+  <div text-right pr2 op50 font-bold>网站</div>
   <TextCopy><a href="https://blog.koodar.net" target="_blank">blog.koodar.net</a></TextCopy>
 
   <div text-right pr2 op50 font-bold>GitHub</div>
-  <TextCopy><a href="https://gitee.com/lycnihao" target="_blank">@lYuanC</a></TextCopy>
+  <TextCopy><a href="https://github.com/ikoodar" target="_blank">@lYuanC</a></TextCopy>
 </div>
 
-## Miscellaneous
 
-- 🚀 This [personal website](https://github.com/ikoodar/blog) is built on [Vitesse](https://github.com/antfu/vitesse), with the power of [Vue 3](https://github.com/vuejs/vue-next), [Vite 2](https://github.com/vitejs/vite) and [UnoCSS](https://github.com/antfu/unocss).
-
-- 🤣 I'm lYuanC 🧑🏻‍💻.
-
-- 👾 `Java` crud boy.
-
-- 🚀 Learning `TypeScript`, `Vue` and `Spring Cloud`.
-
-- 🕹️ Currently interested in constructing buildings in vue.
-
-- 🍔 A dream come true: `while(true) { money++; }`.
 
 <route lang="yaml">
 meta: 
