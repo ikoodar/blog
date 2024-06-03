@@ -4,7 +4,7 @@
       © lYuanC 2024 <span lt-md:hidden>· Just infected with a disease called curiosity.</span>
     </div>
     <div flex items-center gap-3 lt-md:hidden>
-      <a text-c op-50 hover:op-100 flex items-center cursor-pointer href="https://github.com/ikoodar/ikoodar.github.io" title="Code" target="_blank" rel="noopener noreferrer">
+      <a text-c op-50 hover:op-100 flex items-center cursor-pointer href="https://github.com/ikoodar/blog" title="Code" target="_blank" rel="noopener noreferrer">
         <div i-carbon-code mr-1 />
         Code
       </a>

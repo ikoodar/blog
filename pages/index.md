@@ -70,7 +70,7 @@ You can use the following information to present me:
 
 ## Miscellaneous
 
-- 🚀 This [personal website](https://github.com/ikoodar/ikoodar.github.io) is built on [Vitesse](https://github.com/antfu/vitesse), with the power of [Vue 3](https://github.com/vuejs/vue-next), [Vite 2](https://github.com/vitejs/vite) and [UnoCSS](https://github.com/antfu/unocss).
+- 🚀 This [personal website](https://github.com/ikoodar/blog) is built on [Vitesse](https://github.com/antfu/vitesse), with the power of [Vue 3](https://github.com/vuejs/vue-next), [Vite 2](https://github.com/vitejs/vite) and [UnoCSS](https://github.com/antfu/unocss).
 
 - 🤣 I'm lYuanC 🧑🏻‍💻.
 

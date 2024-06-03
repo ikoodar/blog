@@ -13,7 +13,7 @@ export const shikiTheme = {
 export const lastUpdatedText = '最后更新于:'
 export const editLink = {
   pattern:
-    'https://github.com/ikoodar/ikoodar.github.io/edit/master/pages:path',
+    'https://github.com/ikoodar/blog/edit/master/pages:path',
   text: '在 GitHub 中修改此页',
 }
 
