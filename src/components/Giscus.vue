@@ -11,7 +11,7 @@ function getScriptElement() {
   element.setAttribute('data-category', giscus.category)
   element.setAttribute('data-category-id', giscus.categoryId)
   element.setAttribute('data-theme', theme.value)
-  element.setAttribute('data-lang', 'en')
+  element.setAttribute('data-lang', 'zh-CN')
   element.setAttribute('data-mapping', 'pathname')
   element.setAttribute('data-reactions-enabled', '1')
   element.setAttribute('data-emit-metadata', '0')
