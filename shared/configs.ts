@@ -1,4 +1,4 @@
-export const hostname = 'http://blog.koodar.net'
+export const hostname = 'https://blog.koodar.net'
 export const title = 'lYuanC Blog'
 export const description = 'Just infected with a disease called curiosity.'
 export const author = 'lYuanC'
