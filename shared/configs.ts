@@ -18,10 +18,10 @@ export const editLink = {
 }
 
 export const giscus = {
-  repo: '',
-  repoId: '',
-  category: '',
-  categoryId: '',
+  repo: 'ikoodar/blog',
+  repoId: 'R_kgDOMED7kQ',
+  category: 'Announcements',
+  categoryId: 'DIC_kwDOMED7kc4Cf175',
   light: 'light',
   dark: `${hostname}/css/giscus-dark.css`,
 }
