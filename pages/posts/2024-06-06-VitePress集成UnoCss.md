@@ -104,7 +104,7 @@ export default defineConfig({
 
 至此，md文档中就可以使用如下格式的写法啦
 
-```html
+```markdown
 <div flex justify-between items-end>
   <div text-2xl sm:text-4xl font-bold>
     <div>Hi, I'm <span text-c-dark>lYuanC</span>👋。</div>
